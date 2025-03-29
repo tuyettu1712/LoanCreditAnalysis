@@ -22,3 +22,4 @@ Analyse the pattern in the application data of loan applicants to evaluate the l
 
 # DATASET
 https://drive.google.com/drive/folders/1qiBG2FADsHXxyxRWPYv3NbYv20OZFhC4
+# LoanCreditAnalysis
